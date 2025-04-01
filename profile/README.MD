@@ -16,4 +16,4 @@ This page serves to host anything I create such as fonts or anything else I deem
 
 You probably found this through that site but just in-case [this is the link to my portfolio](https://www.alexrayner.uk/) and [these are my other social media links](https://www.alexrayner.uk/links). You can also find me at [Club Dot](https://club.alexrayner.uk/)
 
-![Alex Rayner UK Logo](https://github.com/alexrayneruk/.github/blob/main/alex%20rayner%20logo%20trans.png?raw=true)
+![Alex Rayner UK Logos so so many in this little footer](https://github.com/alexrayneruk/.github/blob/main/alex%20rayner%20logo%20footer.png?raw=true)
