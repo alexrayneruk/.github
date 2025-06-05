@@ -12,7 +12,7 @@ Alex now focuses on graphic design, specifically cover art and poster design, an
 
 This page serves to host anything I create such as fonts or anything else I deem fit for here!
 
-## Where can I find their work?
+## Where can I find her work?
 
 You probably found this through that site but just in-case [this is the link to my portfolio](https://www.alexrayner.uk/) and [these are my other social media links](https://www.alexrayner.uk/links). You can also find me at [Club Dot](https://club.alexrayner.uk/)
 
