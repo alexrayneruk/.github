@@ -1,4 +1,4 @@
-# Alex Rayner UK
+# Alexa Rayner UK
 
 ![banner with collection of posters i have made with a headshot of me in the centre](https://github.com/alexrayneruk/.github/blob/main/design%20dot%20banner%202%20but%20for%20main%20site.png?raw=true)
 
