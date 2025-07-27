@@ -6,7 +6,7 @@
 
 Alexa Rayner is a graphic designer from the South West of England. Alexa is also known by the name "Lil Bama", her music project from 2021-present where she makes meme songs with their friends.
 
-Alex now focuses on graphic design, specifically cover art and poster design, and also sometimes creates a variety of video projects on her YouTube channel, "Alex Rayner", where she created videos such as "THEBALLMAN" and "Spiderman goes to Burger King".
+Alexa now focuses on graphic design, specifically cover art and poster design, and also sometimes creates a variety of video projects on her YouTube channel, "Alex Rayner", where she created videos such as "THEBALLMAN" and "Spiderman goes to Burger King".
 
 ## What is this github page for?
 
